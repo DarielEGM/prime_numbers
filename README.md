@@ -1,4 +1,4 @@
-# prime_numbers![46](https://github.com/DarielEGM/prime_numbers/assets/123778387/b8ccdc34-0e4f-4a1b-9d3c-12778aabab3d)
+# prime_numbers ![46](https://github.com/DarielEGM/prime_numbers/assets/123778387/b8ccdc34-0e4f-4a1b-9d3c-12778aabab3d)
 
 This project was built with Python.
 
